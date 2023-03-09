@@ -1,0 +1,15 @@
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\bin\Debug\net6.0\AvarageNumber.exe
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\bin\Debug\net6.0\AvarageNumber.deps.json
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\bin\Debug\net6.0\AvarageNumber.runtimeconfig.json
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\bin\Debug\net6.0\AvarageNumber.dll
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\bin\Debug\net6.0\AvarageNumber.pdb
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.csproj.AssemblyReference.cache
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.AssemblyInfoInputs.cache
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.AssemblyInfo.cs
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.csproj.CoreCompileInputs.cache
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.dll
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\refint\AvarageNumber.dll
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.pdb
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\AvarageNumber.genruntimeconfig.cache
+C:\Users\boban\OneDrive\Desktop\C# HomeWorks\HomeWork#1\Solution1\AvarageNumber\obj\Debug\net6.0\ref\AvarageNumber.dll
