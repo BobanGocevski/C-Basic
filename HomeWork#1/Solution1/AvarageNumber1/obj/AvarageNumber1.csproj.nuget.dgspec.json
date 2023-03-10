@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boban\\OneDrive\\Desktop\\C# HomeWorks\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj": {}
+    "C:\\Users\\boban\\OneDrive\\Desktop\\C-Basic\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boban\\OneDrive\\Desktop\\C# HomeWorks\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj": {
+    "C:\\Users\\boban\\OneDrive\\Desktop\\C-Basic\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boban\\OneDrive\\Desktop\\C# HomeWorks\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj",
+        "projectUniqueName": "C:\\Users\\boban\\OneDrive\\Desktop\\C-Basic\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj",
         "projectName": "AvarageNumber1",
-        "projectPath": "C:\\Users\\boban\\OneDrive\\Desktop\\C# HomeWorks\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj",
+        "projectPath": "C:\\Users\\boban\\OneDrive\\Desktop\\C-Basic\\HomeWork#1\\Solution1\\AvarageNumber1\\AvarageNumber1.csproj",
         "packagesPath": "C:\\Users\\boban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boban\\OneDrive\\Desktop\\C# HomeWorks\\HomeWork#1\\Solution1\\AvarageNumber1\\obj\\",
+        "outputPath": "C:\\Users\\boban\\OneDrive\\Desktop\\C-Basic\\HomeWork#1\\Solution1\\AvarageNumber1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
