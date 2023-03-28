@@ -1,0 +1,15 @@
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\bin\Debug\net6.0\HomeWork#6.exe
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\bin\Debug\net6.0\HomeWork#6.deps.json
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\bin\Debug\net6.0\HomeWork#6.runtimeconfig.json
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\bin\Debug\net6.0\HomeWork#6.dll
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\bin\Debug\net6.0\HomeWork#6.pdb
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.csproj.AssemblyReference.cache
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.AssemblyInfoInputs.cache
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.AssemblyInfo.cs
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.csproj.CoreCompileInputs.cache
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.dll
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\refint\HomeWork#6.dll
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.pdb
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\HomeWork#6.genruntimeconfig.cache
+C:\Users\boban\OneDrive\Desktop\C-Basic\HomeWork#6\Exercise01\HomeWork#6\obj\Debug\net6.0\ref\HomeWork#6.dll
